@@ -1,0 +1,16 @@
+# 运行时生成
+*-设置.ini
+*-属性备份.ini
+cli-out.txt
+错误日志.txt
+tests/fakegame-init.txt
+tests/fakegame-state.txt
+*.pdb
+
+# 本地临时/备份
+Program.v1.bak.cs
+shot-*.png
+# 调试用假窗口/探针
+tests/Probe.*
+tests/WinFake.*
+tests/Utawarerumono Mask of Truth.exe
