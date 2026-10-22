@@ -6,6 +6,8 @@
 
 游戏是 32 位程序（任务管理器里显示为 `UT3`），本节目的成品同样是零依赖的单个 exe，双击即用。
 
+**直接下载**：[Releases](../../releases/latest) → `UtaTruth-StatEditor-v1.0.0.exe`（也可以直接下仓库根目录里的 `二人白皇-属性修改器.exe`）
+
 ![主界面](screenshot/ui.png)
 
 ---
